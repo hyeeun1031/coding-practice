@@ -1,2 +1,15 @@
-# Baekjooncode
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Coding Test Practice
+이 저장소는 코딩 테스트를 대비하여 풀어본 문제들을 정리한 공간입니다.  
+문제 유형별로 폴더를 나누고, 각 문제에 대한 풀이 코드와 설명을 포함하고 있습니다.
+
+## 📂 폴더 구조
+1. 백준 코드 제공 문제 풀이
+   
+   - 각 문제별 폴더 생성
+2. 프로그래머스 제공 문제 풀이
+   - 레벨별 폴더 생성
+
+## 🛠 사용 언어
+- Python 3
+- SQL
+- 백준, 프로그래머스 등 온라인 저지 문제 기반
