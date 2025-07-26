@@ -55,5 +55,5 @@
 
 ## 🧭 사용 사이트
 
-- [프로그래머스]([https://programmers.co.kr/](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1))
-- [백준]([https://www.acmicpc.net/](https://www.acmicpc.net/step))
+- [프로그래머스] (https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1)
+- [백준] (https://www.acmicpc.net/step)
