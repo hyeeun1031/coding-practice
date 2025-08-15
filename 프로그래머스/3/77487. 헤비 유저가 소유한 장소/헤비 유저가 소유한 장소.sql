@@ -1,0 +1,9 @@
+-- 코드를 입력하세요
+SELECT p.ID, p.NAME, p.HOST_ID
+FROM PLACES as p
+JOIN (SELECT HOST_ID
+      FROM PLACES
+      GROUP BY HOST_ID
+      HAVING COUNT(*) >= 2) AS heavy_users
+ON p.HOST_ID = heavy_users.HOST_ID
+ORDER BY p.ID;
