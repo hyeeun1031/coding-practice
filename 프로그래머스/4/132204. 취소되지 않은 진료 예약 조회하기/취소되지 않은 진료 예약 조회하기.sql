@@ -1,0 +1,9 @@
+-- 코드를 입력하세요
+SELECT a.APNT_NO, p.PT_NAME, a.PT_NO, a.MCDP_CD, d.DR_NAME, a.APNT_YMD
+FROM APPOINTMENT AS a
+JOIN PATIENT AS p ON a.PT_NO = p.PT_NO
+JOIN DOCTOR AS d on a.MDDR_ID = d.DR_ID
+WHERE DATE(a.APNT_YMD) = '2022-04-13' AND # 22/4/13
+      a.MCDP_CD = 'CS' AND # 흉부외과
+      a.APNT_CNCL_YN ='N' # 취소되지 않음
+ORDER BY a.APNT_YMD ASC;
