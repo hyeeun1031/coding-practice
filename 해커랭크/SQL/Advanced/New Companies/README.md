@@ -1,4 +1,4 @@
-<img width="242" height="152" alt="1458534973-6548194998-ScreenShot2016-03-21at8 50 21AM" src="https://github.com/user-attachments/assets/005ccb86-a4ed-4515-821c-a6eb1904ebf6" /># [Advanced] New Companies
+# [Advanced] New Companies
 
 [문제 링크](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true) 
 
@@ -43,19 +43,20 @@ The following tables contain company data:
 <img width="242" height="223" alt="1458535002-d47f63cbb4-ScreenShot2016-03-21at8 50 41AM" src="https://github.com/user-attachments/assets/a0baf068-e4d4-4ace-b826-845a436648a1" />
 
 **Sample Input**
-Company Table:
+
+Company Table: <br>
 <img width="232" height="117" alt="1458535049-2a207c44b3-ScreenShot2016-03-21at8 50 52AM" src="https://github.com/user-attachments/assets/7cabe372-86d7-464f-9ae6-59955a356a74" />
 
-Lead_Manager Table:
+Lead_Manager Table: <br>
 <img width="299" height="116" alt="1458535073-919107f639-ScreenShot2016-03-21at8 51 03AM" src="https://github.com/user-attachments/assets/63926b3b-3a83-4464-a768-86120fa7d5c2" />
 
-Senior_Manager Table:
+Senior_Manager Table: <br>
 <img width="478" height="152" alt="1458535111-b1c48335b3-ScreenShot2016-03-21at8 51 15AM" src="https://github.com/user-attachments/assets/b6990281-edc8-4cdc-ac8d-b39df5090266" />
 
-Manager Table: 
+Manager Table: <br>
 <img width="604" height="152" alt="1458535122-888f4bf340-ScreenShot2016-03-21at8 51 26AM" src="https://github.com/user-attachments/assets/f1d956bd-30ce-4e3a-910d-541f8d77f995" />
 
-Employee Table:
+Employee Table: <br>
 <img width="738" height="187" alt="1458535134-878767e0d9-ScreenShot2016-03-21at8 51 52AM" src="https://github.com/user-attachments/assets/d9e1c480-e4d3-4c8b-adca-3ca97ec6d391" />
 
 
