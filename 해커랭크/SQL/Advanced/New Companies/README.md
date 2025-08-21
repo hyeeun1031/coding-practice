@@ -8,7 +8,7 @@ Advanced > Advanced Select (Medium)
 
 ### 제출 일자
 
-2025년 08월 22일 02:15
+2025년 08월 22일 02:25
 
 ### 문제 설명
 
