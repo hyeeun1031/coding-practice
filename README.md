@@ -49,16 +49,16 @@
 | 🅿️ SUM, MAX, MIN   | 10      | 가장 비싼 상품 구하기, 최솟값 구하기, 조건에 맞는 아이템들의 가격의 총합 구하기 등   |
 | 🅿️ IS NULL         | 9      | 이름이 없는 동물의 아이디, NULL 처리하기, 경기도에 위치한 식품창고 목록 출력하기     |
 | 🅿️ String, Date    | 18      | 이름에 el이 들어가는 동물 찾기, DATETIME에서 DATE로 형 변환, 중성화 여부 파악하기 등 |
-| ♓ Basic    | 8      | Revising the Select Query I, The Report, Weather Observation Station 18  |
+| ♓ Basic    | 11      | Revising the Select Query I, The Report, Weather Observation Station 18, Higher Than 75 Marks 등  |
 | ♓ Intermediate    | 3      | Binary Tree Nodes, New Companies, Top Competitors  |
-| **총합**           | **117** |                                                                        |
+| **총합**           | **120** |                                                                        |
 
 <br>
 
 ## 📈 진행률 및 성취도
 
 - ✅ Python 문제 풀이: **195문제 완료 / 목표 500문제**
-- ✅ SQL 문제 풀이: **117문제 완료 / 목표 200문제**
+- ✅ SQL 문제 풀이: **120문제 완료 / 목표 200문제**
 
 <br>
 
