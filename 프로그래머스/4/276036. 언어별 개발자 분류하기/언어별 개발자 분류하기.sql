@@ -1,0 +1,19 @@
+-- 코드를 작성해주세요
+SELECT GRADE, ID, EMAIL
+FROM (SELECT CASE WHEN (d.SKILL_CODE & (SELECT SUM(CODE)
+                                        FROM SKILLCODES
+                                        WHERE CATEGORY = 'Front End')) >0                 AND (d.SKILL_CODE & (SELECT CODE
+                                        FROM SKILLCODES
+                                        WHERE NAME = 'Python')) > 0 THEN 'A'
+                   WHEN (d.SKILL_CODE & (SELECT CODE
+                                         FROM SKILLCODES
+                                         WHERE NAME = 'C#')) > 0 THEN 'B'
+                   WHEN (d.SKILL_CODE & (SELECT SUM(CODE)
+                                         FROM SKILLCODES
+                                         WHERE CATEGORY = 'Front End')) > 0 THEN 'C'
+                  ELSE NULL
+             END AS GRADE, d.ID, d.EMAIL
+      FROM DEVELOPERS d) t
+WHERE t.GRADE IS NOT NULL
+ORDER BY t.GRADE, t.ID;
+            
