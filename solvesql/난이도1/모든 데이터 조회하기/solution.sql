@@ -1,0 +1,4 @@
+# solution
+
+SELECT *
+FROM points;
