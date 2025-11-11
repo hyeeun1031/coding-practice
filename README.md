@@ -56,15 +56,15 @@
 | ♓ Intermediate    | 3      | Binary Tree Nodes, New Companies, Top Competitors  |
 | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9e086ffb-cf13-4764-a923-ba5bd61ed38c"/>  난이도 1 | 16      | 	모든 데이터 조회하기, 일부 데이터 조회하기, 최근 올림픽이 개최된 도시 등  |
 | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9e086ffb-cf13-4764-a923-ba5bd61ed38c"/>  난이도 2 | 17     | 	두 테이블 결합하기, 레스토랑 웨이터의 팁 분석, 일별 블로그 방문자 수 집계 등 |
-| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9e086ffb-cf13-4764-a923-ba5bd61ed38c"/>  난이도 3 | 9     | 	복수 국적 메달 수상한 선수 찾기, 할부는 몇 개월로 해드릴까요 등|
-| **총합**           | **168** |                                                                        |
+| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9e086ffb-cf13-4764-a923-ba5bd61ed38c"/>  난이도 3 | 7     | 	복수 국적 메달 수상한 선수 찾기, 할부는 몇 개월로 해드릴까요 등|
+| **총합**           | **167** |                                                                        |
 
 <br>
 
 ## 📈 진행률 및 성취도
 
 - ✅ Python 문제 풀이: **373문제 완료 / 목표 500문제**
-- ✅ SQL 문제 풀이: **168문제 완료 / 목표 200문제**
+- ✅ SQL 문제 풀이: **167문제 완료 / 목표 200문제**
 
 <br>
 
